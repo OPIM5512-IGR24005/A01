@@ -3,6 +3,6 @@
 
 ---
 
-<sub> *California Housing Dataset is to be used.*  
-<sub> *How script is run:*  
-<sub> *Expected output would be a saved boxplot image*
+## <sub> *California Housing Dataset is to be used.*  
+## <sub> *How script is run:*  
+## <sub> *Expected output would be a saved boxplot image*
