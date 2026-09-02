@@ -1,5 +1,5 @@
 # A01
-<sub>*A01 First Draft. The aim of this repo is to use California Housing Dataset and create a box plot image* 
+<sub> **A01 First Draft. The aim of this repo is to use California Housing Dataset and create a box plot image**  
 
 ---
 
